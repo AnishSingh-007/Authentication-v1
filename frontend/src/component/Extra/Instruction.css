@@ -1,0 +1,189 @@
+.intruction_header{
+    margin: 0 !important;
+    float: left;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;  
+    height: 6vh;
+    padding: 0 16px;
+    background: #fff;
+    transition: all .3s cubic-bezier(.165,.84,.44,1);
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%);
+}
+.intruction_header img{
+    float: left;
+    margin-top: -14%;
+    width: 100%;
+    margin-left: 4%;
+}
+.instruction-papercode-tile {
+    margin-top: 1.5%;
+    font-size: 12px;
+    margin-left: 2%;
+}
+.instruction-row{
+    margin: 0;
+    padding: 0;
+    height:94vh;
+}
+.botton-instruction{
+    position: fixed;
+    bottom: 0;           
+    height: 6vh;
+    padding: 5px 16px 0;
+    background: #fff;
+    box-shadow: 0 -1px 2px rgb(0 0 0 / 20%);
+    float: left;
+    width: 78%;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.general-instruction-name {
+    font-weight: 500;
+    margin-left: -2%;
+    font-size: 15px;
+    margin-top: 2%;             
+}
+.next-instruction {
+    background-color: #a9d0f5;
+    border: 1px solid #92c4f2;
+    color: #333;
+    text-shadow: 0 0 0 transparent;
+    border-radius: 2px;
+    float: right;
+    text-decoration: none;
+    padding: 2px 32px;
+    box-shadow: 1px 1px 6px -1px #eaf5f4;
+}
+.go-test{
+    color: #059ac4;
+    font-weight: 400;
+    border-radius: 0;
+    border: none;
+    background: transparent;
+    font-size: 14px;
+    text-decoration: none;
+}
+.inst-name {
+    margin-top: 10%;
+    margin-left: 28%;
+    border-radius: 50%;
+    background: orange;
+    border: none;
+    color: #fff;
+    width: 40%;
+    height: 22%;
+    font-size: 65px;
+}
+.student-name {
+    text-align: center;
+    margin-top: 4%;
+    font-size: 20px;
+}
+.newinstruction-bottom{
+    position: fixed;
+    bottom: 40px;
+    left: 0;
+    width: 78%;   
+    height: 44vh;
+    padding: 16px;
+    background: #fff;
+    box-shadow: 0 -1px 2px rgb(0 0 0 / 20%);
+    margin-left: 0;
+    margin-right: 0;
+}
+.chooselang{
+    font-size: 13px;
+    margin-left: 1%;
+}
+.l-info {
+    font-size: 14px;
+    color: #d01d22;
+    font-family: sans-serif;
+} 
+.lang-select {
+    font-size: 14px;
+    font-weight: 500;
+    font-family: sans-serif; 
+}
+hr {
+    height: 0.1px !important;
+    color: #8080808c !important;
+}
+.read-carefully{
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 1%;
+    display: inline;
+    cursor: pointer;
+}
+.second-bottom {
+    position: fixed;
+    width: 78%;
+    left: 0;
+    bottom: 0;
+    padding: 9px 0 11px;
+    border: none;
+    background: #fff;
+    box-shadow: 0 -1px 2px rgb(0 0 0 / 20%);            
+    margin-left: 0;
+    margin-right: 0;
+}
+.begin{
+    float: right;
+    margin-right: 40%;
+    color: #fff;          
+    background-color: #1fbad6;
+    border-color: #1fbad6;
+    font-size: 15px;
+    padding: 4px 8px;
+    border: none;
+    border-radius: 2px;
+}
+.previous {
+    float: left;
+    margin-left: 2%; 
+    background-color: #a9d0f5;
+    border: 1px solid #92c4f2;
+    color: #333;
+    text-shadow: 0 0 0 transparent;
+    font-size: 15px;
+    padding: 4px 10px;
+    border-radius: 2px;
+    text-decoration: none;
+}
+.general-newinstruction-name {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 4%;
+}
+.maximum-mark{
+    float: right;
+    font-weight: 500;
+    font-size: 14px;
+}
+.duration{
+    font-weight: 500;
+    font-size: 14px;
+}
+.read-inst{
+    margin-top: 2%; 
+    font-size: 16px;
+    font-weight: 500;
+}
+.newinstruction-div{
+    height: 45vh;
+    overflow-y: auto;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.disable {
+    opacity: 0.5;
+    cursor: not-allowed !important;
+}
+.instruction-plate{
+    height: 94vh;
+    background: #d9edf7;
+}                                   

@@ -1,0 +1,61 @@
+/* ProductReviews.css */
+
+.product-reviews {
+    margin-top: 20px;
+  }
+  
+  .product-reviews h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .review {
+    display: flex;
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #f9f9f9; /* Change to your desired background color */
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-avatar {
+    flex: 0 0 60px;
+    margin-right: 15px;
+  }
+  
+  .user-avatar img {
+    width: 100%;
+    border-radius: 50%;
+  }
+  
+  .review-content {
+    flex: 1;
+  }
+  
+  .review-content h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .review-content p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .review-content p:last-child {
+    margin-bottom: 0;
+  }
+  
+  .review-content .rating {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    color: #f50057; /* Change to your desired rating color */
+  }
+  
+  .review-content .rating i {
+    margin-right: 5px;
+  }
+  
+  /* Apply additional styles as needed */
+  

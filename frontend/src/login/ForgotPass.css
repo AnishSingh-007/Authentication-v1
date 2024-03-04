@@ -1,0 +1,85 @@
+.div-fp-email {
+    margin: 5%;
+}
+
+.span-fp-get {
+    margin-bottom: 16px;
+    display: block;
+    font-family: serif;
+    font-weight: 700;
+    font-size: 36px;
+    color: #737171;
+}
+
+.label-fp-userid {
+    display: block;
+    margin-top: 24px;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+.span-fp-error {
+    display: block;
+    color: red;
+    margin-top: 8px;
+    font-family: sans-serif;
+    margin-bottom: 8px;
+}
+
+.input-fp-userid {
+    width: 50% !important;
+    padding: 8px 8px !important;
+    margin-top: 4px;
+    border: 1px solid #ccc !important;
+    border-radius: 0px !important;
+    margin-bottom: inherit;
+    font-size: 16px;
+}
+
+.button-fp-submit-enable {
+    cursor: pointer !important;
+    background-color: blue !important;
+    font-family: sans-serif;
+    color: white !important;
+    padding: 0px 30px !important;
+    display: block;
+    margin-top: 24px;
+    margin-bottom: 16px;
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+    border: none !important;
+    border-radius: 16px !important;
+    margin-left: 66px;
+    font-size: 16px !important;
+}
+
+.button-fp-submit-disable {
+    cursor: pointer !important;
+    background-color: #ddd !important;
+    font-family: sans-serif;
+    color: #707070 !important;
+    padding: 0px 30px !important;
+    display: block;
+    margin-top: 24px;
+    margin-bottom: 16px;
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+    border: none !important;
+    border-radius: 16px !important;
+    margin-left: 66px;
+    font-size: 16px !important;
+}
+
+.span-fp-or-login {
+    font-size: 17px;
+    display: block;
+    margin-top: 24px;
+    margin-bottom: 4px;
+    font-family: sans-serif;
+    color: #000;
+}
+
+.img-fp-gmail {
+    cursor: pointer;
+    padding-top: 8px;
+}

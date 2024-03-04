@@ -1,0 +1,32 @@
+.main-div {
+    margin: 5%;
+}
+
+.p-div {
+    background: #E1E3EA;
+    border-radius: 60px;
+    padding: 32px;
+}
+
+.plateform-span {
+    font-family: serif;
+    color: #737171;
+    font-size: 36px;
+    padding-left: 35px;
+    font-weight: 700;
+}
+
+.content-div {
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.text-span {
+    font-family: serif;
+    color: #737171;
+    font-weight: 500;
+    margin-left: 15px;
+    font-size: 32px;
+    height: 100%;
+}

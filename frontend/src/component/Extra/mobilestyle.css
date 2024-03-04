@@ -1,0 +1,286 @@
+
+@media only screen and (min-width: 320px) and (max-width: 900px) {
+    .mobile-pinnacle-logo {
+        width: 107px !important;
+        margin-left: 18px;
+    }
+    .mobile-padding0 {
+        padding: 0px !important;
+    }
+    .mobile-box-shadow80808042 {
+        box-shadow: 1px 1px 1px 1px #80808042;
+    }
+    .mobile-height-auto {
+        height: auto;
+    }
+    .mobile-height-auto-important {
+        height: auto !important;
+    }  
+    .mobile-margin-top10 {
+        margin-top: 10px;
+    }
+    .mobile-text-align-center {
+        text-align: center;
+    }
+    .mobile-timer {
+        position: absolute;
+        top: -5px;   
+        right: 13px;
+    }
+    .mobile-padding-right5 {
+        padding-right: 5px;
+    }
+    .mobile-display-none {
+        display: none !important;
+    }
+    .mobile-width100 {
+        width: 100% !important;
+    } 
+    .mobile-width30-perc {
+        width: 30%;
+    }
+    .mobile-width15-perc {
+        width: 15%;
+    }
+    .mobile-float-left {                   
+        float: left;
+    }           
+    .mobile-float-right {
+        float: right;
+    }
+    .mobile-position-relative {
+        position: relative;
+    }
+    .mobile-margin-top7 {
+        margin-top: 7px;
+    }
+    .mobile-margin-top8 {
+        margin-top: 8px;
+    }
+    .mobile-font-size11 {
+        font-size: 11px;    
+    }
+    .mobile-font-size12 {
+        font-size: 12px;    
+    }
+    .mobile-margin-top15 {
+        margin-top: 15px;
+    }
+    .mobile-width100-perc {
+        width: 100%;
+    }   
+    .mobile-font-size {
+        font-size: 12px;
+    }
+    .mobile-text-change span {
+        display: none;
+    }
+    .mobile-text-change:after {
+        content: 'Mark for Review'
+    }
+    .mobile-text-change-clear span {
+        display: none;      
+    }
+    .mobile-text-change-clear:after {
+        content: 'Clear'
+    }
+    .mobile-text-change-report span {
+        display: none;
+    }  
+    .mobile-subject-scroll {
+        width: 90%;
+        overflow-x: scroll;
+        display: -webkit-inline-box;
+    }
+    .mobile-display-block {
+        display: block !important;
+    }
+    .mobile-three-outline {
+        width: auto;   
+        background: #1FBAD6;
+        border: none;
+        position: absolute;
+        bottom: 65px;   
+        right: 15px;
+        padding: 0px 5px;
+        border-radius: 2px;
+        color: white;
+        font-size: 25px;
+    }
+    .mobile-nav-plate {
+        width: 90% !important;
+        position: absolute !important;
+    }
+    .mobile-header2 {    
+        height: auto;
+        padding: 6px 0px;
+    }
+    .mobile-box-shadow-none {
+        box-shadow: none;  
+    }             
+    .mobile-subject {
+        margin-top: 0px !important;      
+    }
+    .mobile-q-sction {
+        height: 86vh;
+    }
+    .mobile-height-14vh {
+        height: 14vh;   
+    }
+    .mobile-fontsize15 {
+        font-size: 14px !important;
+        font-weight: bold !important;
+    }
+    .mobile-margin0 {
+        margin: 0 !important;       
+    }
+    .mobile-overflow-x {                
+        overflow-x: scroll;
+    }   
+    .mobile-padding-right0 {
+        margin: 0;
+    }
+    .mobile-padding10 {
+        padding: 10px;
+    }
+    .mobile-padding10-important {    
+        padding: 10px !important;
+    }
+    .mobile-width100-perc {   
+        width: 100%;
+    }
+    .mobile-container95 {
+        width: 95% !important;
+    }
+    .mobile-margin-top12 {
+        margin-top: 12px !important;
+    }
+    .mobile-margin-bottom12 {
+        margin-bottom: 12px;
+    }
+    .mobile-margin-bottom8 {
+        margin-bottom: 8px;
+    }
+    .mobile-width50-perc {
+        width: 50% !important;
+        float: left;
+    }
+    .mobile-margin-left0 {
+        margin-left: 0px;
+    }
+    .mobile-margin-left15 {
+        margin-left: 15px;
+    }
+    .mobile-position-relative-important {
+        position: relative !important;
+    } 
+    .mobile-top0 {
+        top: 0;               
+    }
+    .mobile-sidebar-button {
+        background: #1FBAD6 !important;
+        bottom: -8px;
+        display: block !important;   
+        font-size: 25px !important;             
+    }
+    .mobile-width150 {
+        width: 150px !important;
+    }    
+    .mobile-sidebar-div {
+        right: 26%;
+        left: 0;
+        background: #1b1b1b;    
+        position: fixed;
+        top: 0;
+        height: 100vh;
+        color: white;    
+    }
+    .mobile-sidebar-div button {
+        color: white;
+        width: 100%;
+        margin-top: 7px !important;         
+        margin-bottom: 8px !important;     
+        text-align: left;
+        margin-left: 24px !important;                 
+    }
+    .overflow-x-scroll {
+        overflow-x: scroll !important; 
+    }
+    .mobile-row {    
+        margin-left: 0;
+        margin-right: 0;    
+    }
+    .mobile-left0 {
+        left: 0px !important;
+    }
+    .mobile-company-logo {
+        width: 154px;
+        margin-left: 26px;        
+        margin-top: 11px;
+        margin-bottom: 17px;
+    }  
+    .mobile-width-50-perc {   
+        width: 50% !important;
+    } 
+    .mobile-margin-top-min-14 {
+        margin-top: -14px !important;
+    }  
+    .mobile-height40vh {
+        height: 40vh !important;
+    }  
+    .mobile-margin-right0 {
+        margin-right: 0px;
+    }
+    .mobile-height-10vh {
+        height: 10vh !important;
+    }
+    .mobile-height-8-5 {
+        height: 8.5vh !important;
+    } 
+    .mobile-height-81-5 {
+        height: 81.5vh !important;
+    }
+    .mobile-height-7 {
+        height: 7vh !important;
+    }
+    .mobile-height-16 {          
+        height: 16vh !important;
+    }
+    .mobile-top-23vh {
+        top: 23vh !important;
+    }
+    .mobile-height-45vh {   
+        height: 45vh !important;
+    }
+    .mobile-margin-right-inherit {
+        margin-right: inherit !important;
+    }
+    .mobile-analysis {
+        position: inherit !important;
+        width: inherit !important;
+        bottom: inherit !important;
+    }
+}              
+     
+
+
+
+               
+
+/* desktop css */    
+.desktop-float-left {
+    float: left;
+} 
+.desktop-width850{
+    width: 900px;
+}  
+.desktop-display-none {   
+    display: none;          
+}
+.desktop-analysis {
+    float: right;
+    position: absolute;
+    width: 150px;
+    bottom: 40px;
+}
+    

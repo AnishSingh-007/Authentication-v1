@@ -1,0 +1,96 @@
+.main-div-login {
+    margin: 5%;
+}
+
+.get-started-span-login {
+    font-family: serif;
+    font-weight: 700;
+    font-size: 36px;
+    color: #737171;
+}
+
+.please-span {
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #7C7C7C;
+}
+
+.mobile-div {
+    margin-top: 16px;
+    display: block;
+}
+
+.code-span {
+    font-family: sans-serif;
+    color: #0B0B0E;
+    text-align: center;
+    padding: 12px;
+    background: #BABCFE;
+}
+
+.number-input {
+    font-size: 16px;
+    margin-bottom: inherit;
+    font-family: sans-serif;
+    width: 252px !important;
+    height: 40px;
+    padding: 0px 4px !important;
+    border-radius: inherit !important;
+}
+
+.button-login-get-otp-enable {
+    border-radius: 0px !important;
+    cursor: pointer !important;
+    padding: 10px 30px !important;
+    font-family: sans-serif;
+    border: none !important;
+    background: #3057F5 !important;
+    color: white !important;
+    margin-left: 16px;
+    height: 44px;
+    font-size: 16px !important;
+}
+
+.button-login-get-otp-disable {
+    background-color: #ddd !important;
+    padding: 10px 30px !important;
+    font-family: sans-serif;
+    border: none !important;
+    color: #707070 !important;
+    margin-left: 16px;
+    height: 44px;
+    border-radius: inherit !important;
+    cursor: default !important;
+    font-size: 16px !important;
+}
+
+.button-login-submit-enable {
+    border-radius: 0px !important;
+    cursor: pointer !important;
+    padding: 10px 30px !important;
+    font-family: sans-serif;
+    border: none !important;
+    background: #3057F5 !important;
+    color: white !important;
+    margin-left: 16px;
+    height: 44px;
+    font-size: 16px !important;
+}
+
+.button-login-submit-disable {
+    background-color: #ddd !important;
+    padding: 10px 30px !important;
+    font-family: sans-serif;
+    border: none !important;
+    color: #707070 !important;
+    margin-left: 16px;
+    height: 44px;
+    border-radius: inherit !important;
+    cursor: default !important;
+    font-size: 16px !important;
+}
+
+.img-login-gmail {
+    cursor: pointer;
+}

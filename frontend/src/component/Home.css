@@ -1,0 +1,103 @@
+.Modal {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: white;
+    width: 500px;
+    height: 200px;
+}
+
+.Overlay {
+    opacity: .8;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #FA8888;
+}
+
+.sign-up-span {
+    padding-top: 16px;
+    display: block;
+    text-align: center;
+    color: blue;
+    font-size: 18px;
+    font-family: serif;
+    font-weight: 600;
+}
+
+.name-input {
+    padding: 8px !important;
+    display: block;
+    margin: auto;
+    margin-top: 12px;
+    border: 1px solid #ccc !important;
+    border-radius: 0px !important;
+    width: inherit !important;
+    font-size: 14px !important;
+}
+
+.continue-button-enable {
+    cursor: pointer !important;
+    padding: 8px 24px !important;
+    background-color: blue !important;
+    border-radius: 32px !important;
+    margin: auto;
+    color: white !important;
+    background: blue;
+    display: block;
+    margin-top: 16px;
+    border: none !important;
+    padding-inline: 24px;
+    font-size: 18px !important;
+    font-family: serif;
+    font-weight: 600;
+}
+
+.continue-button-disable {
+    cursor: default !important;
+    padding: 8px 24px !important;
+    background-color: #ccc !important;
+    border-radius: 32px !important;
+    margin: auto;
+    color: #000 !important;
+    background: #ccc;
+    display: block;
+    margin-top: 16px;
+    border: none !important;
+    padding-inline: 24px;
+    font-size: 18px !important;
+    font-family: serif;
+    font-weight: 600;
+}
+
+.email-span {
+    padding-top: 8px;
+    display: block;
+    text-align: center;
+    color: #000;
+    font-size: 18px;
+    font-family: serif;
+    font-weight: 600;
+}
+
+.email-id-span {
+    display: block;
+    text-align: center;
+    color: #000;
+    font-size: 13px;
+    font-family: serif;
+}
+
+.instruction-span {
+    padding-top: 16px;
+    display: block;
+    text-align: center;
+    color: #A7A7AB;
+    font-size: 15px;
+    font-family: serif;
+}

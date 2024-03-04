@@ -1,0 +1,33 @@
+/* Footer.css */
+
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer-logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .footer-links {
+    margin-top: 10px;
+  }
+  
+  .footer-links a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .footer-links a:hover {
+    color: #f39c12;
+  }
+  
+  /* Apply additional styles to the footer and footer links */
+  
+  /* Apply additional styles as needed */
+  

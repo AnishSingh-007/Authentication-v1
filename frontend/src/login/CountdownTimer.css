@@ -1,0 +1,49 @@
+.rounded-progress-bar {
+    width: 100px;
+    height: 100px;;
+    border-radius: 25px; /* Adjust the border-radius to control the roundness */
+    overflow: hidden; /* Ensure content stays within rounded border */
+  }
+
+  .btn-ct-sent-otp-wa {
+    display: block;
+    margin-top: 16px;
+    margin-left: 32px;
+    cursor: pointer !important;
+    font-size: inherit !important;
+    border-radius: 37px !important;
+    padding: 0px 30px !important;
+    font-family: sans-serif;
+    border: none !important;
+    background-color: green !important;
+    color: white !important;
+    height: 44px;
+    margin-right: inherit !important;
+  }
+
+  .wa-icon {
+
+  }
+
+  .btn-ct-resend-otp {
+    cursor: pointer !important;
+    font-size: inherit !important;
+    border-radius: 37px !important;
+    padding: 0px 30px !important;
+    font-family: sans-serif;
+    border: none !important;
+    background-color: #3057F5 !important;
+    color: white !important;
+    margin-left: 62px;
+    height: 44px;
+    margin-right: inherit !important;
+  }
+
+  .span-ct-resend {
+    padding-top: 5px;
+    margin-left: 63px;
+    font-size: 16px;
+    color: #7C7C7C;
+    font-weight: 400;
+    font-family: sans-serif;
+  }

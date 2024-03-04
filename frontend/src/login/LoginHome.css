@@ -1,0 +1,11 @@
+.span-login-register {
+    font-family: serif;
+    color: #A6A6A6;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.div-login {
+    padding: 0 20% 0 0 !important;
+    text-align: right;
+}
